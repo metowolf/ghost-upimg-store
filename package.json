@@ -1,0 +1,25 @@
+{
+  "name": "@upimg/ghost-store",
+  "version": "1.0.0",
+  "description": "Ghost UpImg storage module.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metowolf/ghost-upimg-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/metowolf/ghost-upimg-store/issues"
+  },
+  "homepage": "https://github.com/metowolf/ghost-upimg-store#readme",
+  "author": "metowolf <i@i-meto.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "ghost-storage-base": "^0.0.3",
+    "upimg": "^0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
